@@ -109,3 +109,11 @@ UpgradeLog*.XML
 Settings.StyleCop
 .vs/config/applicationhost.config
 /.vs/Abot/v15
+node_modules/
+dist/
+build/
+.env
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
