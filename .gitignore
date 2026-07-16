@@ -117,3 +117,4 @@ __pycache__/
 .venv/
 *.egg-info/
 .mypy_cache/
+.env.*
